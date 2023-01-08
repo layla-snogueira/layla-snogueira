@@ -1,7 +1,7 @@
 <img src="https://github.com/layla-snogueira/layla-snogueira/blob/main/panda-waving-cartoon-sticker.gif" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <h2 align="left"> 
-  Oi, Eu me chamo <strong>Layla 🐼</strong>.</h2>
+  Oi, Eu me chamo <strong>Layla!🐼</strong></h2>
 <p   align="left">Atualmente sou estudante de desenvolvimento web full stack e também sou bióloga 🌿.</p>
 
 <p align="left">
