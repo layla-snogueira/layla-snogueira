@@ -13,7 +13,7 @@
 <hr>
 <h3 align="left">📖 Estudando:</h3>
 <ul>
-  <li>HTML5;<li>
+  <li>HTML5;</li>
   <li>CSS;</li>
   <li>REACT;</li>
   <li>JAVASCRIPT.</li>
