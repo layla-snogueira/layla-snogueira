@@ -1,4 +1,4 @@
-<img src="https://github.com/layla-snogueira/layla-snogueira/blob/main/7603461.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/layla-snogueira/layla-snogueira/commit/440ffd2a169c8cbfec596b85c6cbb850ab29ebcf" min-width="300px" max-width="300px" width="3000px" align="right" alt="Panda waving hello">
 
 <p align="left"> 
   Oi! Eu me chamo <strong>Layla 🐼</strong>.<br>
