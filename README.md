@@ -38,8 +38,8 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layla-snogueira550&theme=dark&show_icons=true" alt="layla-snogueirtats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=layla-snogueira&theme=dark&show_icons=true" alt="layla-snogueirtats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-snogueira550&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-snogueira&layout=compact&theme=dark" alt="top-langs" />
 </p>
