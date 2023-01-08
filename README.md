@@ -11,7 +11,7 @@
    <li>JS.</li>
 </ul>
 <hr>
-<h3 align="left">📖 Estudando:</h3>:
+<h3 align="left">📖 Estudando:</h3>
 <ul>
   <li>HTML5<li>
   <li>CSS</li>
