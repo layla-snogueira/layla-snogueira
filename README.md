@@ -10,7 +10,7 @@
     <li><strong>CSS;</strong></li>
    <li><strong>JS.</strong></li>
 </ul>
-
+<hr>
 <p align="left">
  💼 Ferramentas: <strong>GIT, GITHUB, VSCODE </strong>
 </p>
