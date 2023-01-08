@@ -16,7 +16,11 @@
   <li>HTML5;</li>
   <li>CSS;</li>
   <li>REACT;</li>
-  <li>JAVASCRIPT.</li>
+  <li>JAVASCRIPT;</li>
+  <li>TYPESCRIPT;</li>
+  <li>NODEJS;</li>
+  <li>GIT;</li>
+  <li>SQL.</li>
 </ul>
 
 <p align="center">
