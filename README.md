@@ -3,14 +3,13 @@
 <h2 align="left"> 
   Oi, Eu me chamo <strong>Layla!🐼</strong></h2>
 <p   align="left">Atualmente sou estudante de desenvolvimento web full stack e também sou bióloga 🌿.</p>
-
-<p align="left">
-🦄 Linguagens: 
-  <ul>
+<hr>
+<h3 align="left">🦄 Linguagens: </h3>
+  <ul align="left">
     <li> <strong>HTML;</strong></li>
     <li><strong>CSS;</strong></li>
    <li><strong>JS.</strong></li>
-</p>
+</ul>
 
 <p align="left">
  💼 Ferramentas: <strong>GIT, GITHUB, VSCODE </strong>
