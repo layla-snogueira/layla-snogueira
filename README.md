@@ -5,7 +5,7 @@
 <p   align="left">Atualmente sou estudante de desenvolvimento web full stack e também sou bióloga 🌿.</p>
 
 <p align="left">
-  🦄 Linguagens: 
+🦄 Linguagens: 
   <ul>
     <li> <strong>HTML;</strong></li>
     <li><strong>CSS;</strong></li>
@@ -13,11 +13,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>GIT, GITHUB, VSCODE </strong>
+ 💼 Ferramentas: <strong>GIT, GITHUB, VSCODE </strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+ 💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
