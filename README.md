@@ -19,8 +19,8 @@
   <li>JAVASCRIPT.</li>
 </ul>
 
-<p align="left">
- 💌 Onde você pode me encontrar: ⤵️
+<p align="center">
+ 💌 Onde você pode me contatar: ⤵️
 </p>
 
 <p align="center">
