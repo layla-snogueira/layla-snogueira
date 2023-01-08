@@ -36,3 +36,10 @@
   <a href="https://www.instagram.com/layla_snogueira/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=layla-snogueira550&theme=dark&show_icons=true" alt="layla-snogueirtats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-snogueira550&layout=compact&theme=dark" alt="top-langs" />
+</p>
